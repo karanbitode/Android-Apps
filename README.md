@@ -1,9 +1,9 @@
 # Android-Apps
 Android Apps for educational purposes.
 
-1. Memorable Places
-![](Screenshots/Memorable%20Places%201.jpg)
-<img src="Screenshots/Memorable%20Places%201.jpg" width="48">
+##1. Memorable Places
+<img src="Screenshots/Memorable%20Places%201.jpg" width="200">
+<img src="Screenshots/Memorable%20Places%202.jpg" width="200">
 
 2. Notes App
 3. Tic Tac Toe
