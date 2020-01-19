@@ -2,7 +2,7 @@
 Android Apps for educational purposes.
 
 1. Memorable Places
-![]("Screenshots/Memorable Places 1.png")
+![]("Screenshots/Memorable%20Places%201.png")
 ![]("Memorable Places 2.png")
 
 2. Notes App
