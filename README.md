@@ -1,7 +1,7 @@
 # Android-Apps
 Android Apps for educational purposes.
 
-##1. Memorable Places
+1. Memorable Places
 <img src="Screenshots/Memorable%20Places%201.jpg" width="200">
 <img src="Screenshots/Memorable%20Places%202.jpg" width="200">
 
