@@ -2,7 +2,7 @@
 Android Apps for educational purposes.
 
 1. **Memorable Places**
-<img src="Screenshots/Memorable_Places_1.jpg" width="200">|<img src="Screenshots/Memorable_Places_2.jpg" width="200">
+\n<img src="Screenshots/Memorable_Places_1.jpg" width="200">|<img src="Screenshots/Memorable_Places_2.jpg" width="200">
 
 2. **Notes App**
 3. Tic Tac Toe
